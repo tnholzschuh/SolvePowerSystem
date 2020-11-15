@@ -1,0 +1,6 @@
+Bus Name,P,Q,V,delta
+Generator,,,1,0
+Load,-1,-0.2,,
+,,,,
+Bus 1,Bus 2,Impedance,,
+Generator,Load,0.1i,,
